@@ -1,0 +1,337 @@
+City,Neighborhood,Latitude,Longitude
+Philadelphia,Allegheny West,40.0084457,-75.1779559
+Philadelphia,Bella Vista,39.9353907,-75.157122
+Philadelphia,Bridesburg,40.0003901,-75.0696179
+Philadelphia,Bustleton,40.0826108,-75.0315597
+Philadelphia,Chestnut Hill,40.0770553,-75.2074
+Philadelphia,Cobbs Creek,39.9476128,-75.2401818
+Philadelphia,East Falls,40.0145566,-75.1915675
+Philadelphia,East Mount Airy,40.0645,-75.1875
+Philadelphia,East Oak Lane,40.0501114,-75.1329531
+Philadelphia,Eastwick,39.8903908,-75.2424048
+Philadelphia,Fairmount,39.9723349,-75.181012
+Philadelphia,Fox Chase,40.0812219,-75.0801728
+Philadelphia,Frankford,40.0281674,-75.084896
+Philadelphia,Germantown,40.0434449,-75.1801775
+Philadelphia,Grays Ferry,39.9351129,-75.1921238
+Philadelphia,Holmesburg,40.0415004,-75.0279489
+Philadelphia,Hunting Park,40.016501,-75.1437876
+Philadelphia,Juniata,40.0084455,-75.1087862
+Philadelphia,Kensington,39.9859458,-75.1318429
+Philadelphia,Kingsessing,39.9367796,-75.2296258
+Philadelphia,Lawncrest,40.0469,-75.0967
+Philadelphia,Logan,40.0284452,-75.1515654
+Philadelphia,Manayunk,40.0245565,-75.2140682
+Philadelphia,Mantua,39.9626127,-75.1912903
+Philadelphia,Mayfair,40.0337228,-75.0340604
+Philadelphia,North Central,39.9751127,-75.1629555
+Philadelphia,Northern Liberties,39.965946,-75.1462881
+Philadelphia,Olney,40.0412227,-75.1237863
+Philadelphia,Overbrook,39.9892794,-75.243237
+Philadelphia,Oxford Circle,40.0501114,-75.0718395
+Philadelphia,Parkside,39.978446,-75.2204582
+Philadelphia,Point Breeze,39.9334462,-75.1779564
+Philadelphia,Port Richmond,39.9767793,-75.1001748
+Philadelphia,Powelton,39.9584461,-75.1910125
+Philadelphia,Queen Village,39.9342796,-75.1485104
+Philadelphia,Rhawnhurst,40.0617779,-75.0557276
+Philadelphia,Roxborough,40.0381674,-75.2224016
+Philadelphia,Schuylkill,39.942335,-75.1871235
+Philadelphia,Somerton,40.1234434,-75.0148921
+Philadelphia,Stenton,39.9898348,-75.1593442
+Philadelphia,Tacony,40.0312228,-75.0443386
+Philadelphia,Tioga,40.0090012,-75.1679555
+Philadelphia,Torresdale,40.0548335,-75.0043367
+Philadelphia,University City,39.9492795,-75.1896236
+Philadelphia,West Mount Airy,40.0526114,-75.1979557
+Philadelphia,West Oak Lane,40.0692778,-75.1662875
+Philadelphia,Wynnefield,39.9898349,-75.2376812
+Philadelphia,Center City,39.9524487,-75.166441
+Philadelphia,South Philadelphia,39.9215661,-75.175834
+Philadelphia,Southwest Philadelphia,39.9117856,-75.2326445
+Philadelphia,North Philadelphia West,39.9848647,-75.1717698
+Philadelphia,Fairhill,39.9992828,-75.1375894
+Philadelphia,East Germantown,40.0448253,-75.1684516
+Philadelphia,Northeast Philadelphia,40.050674,-75.0668004
+San Francisco,Alamo Square,37.7777446,-122.4377308
+San Francisco,Anza Vista,37.7810041,-122.4444364
+San Francisco,Ashbury Heights,37.7628467,-122.4515326
+San Francisco,Balboa Terrace,37.7308984,-122.4701855
+San Francisco,Bayview,37.7340974,-122.3913596
+San Francisco,Bernal Heights,37.7395397,-122.4180485
+San Francisco,Castro,37.7627713,-122.4399264
+San Francisco,Cathedral Hill,37.7843439,-122.4267385
+San Francisco,China Basin,37.7795015,-122.3949929
+San Francisco,Chinatown,37.7965955,-122.4085822
+San Francisco,Civic Center,37.7789716,-122.4206534
+San Francisco,Clarendon Heights,37.7551551,-122.4547253
+San Francisco,Cole Valley,37.764859,-122.4585461
+San Francisco,Corona Heights,37.7613905,-122.4461637
+San Francisco,Crocker Amazon,37.7122321,-122.4475532
+San Francisco,Design District,37.7689238,-122.4039097
+San Francisco,Diamond Heights,37.7457639,-122.4416379
+San Francisco,Dolores Heights,37.7569472,-122.4378159
+San Francisco,Duboce Triangle,37.7661594,-122.435493
+San Francisco,Eureka Valley,37.7609314,-122.4480066
+San Francisco,Excelsior,37.7241327,-122.438455
+San Francisco,Fillmore,37.7808107,-122.4384619
+San Francisco,Financial District,37.7927728,-122.409847
+San Francisco,Fishermans Wharf,37.80811,-122.4253858
+San Francisco,Forest Hill,37.7474307,-122.4635825
+San Francisco,Forest Knolls,37.7544444,-122.4591667
+San Francisco,Glen Park,37.7379097,-122.4364812
+San Francisco,Golden Gate Heights,37.7547222,-122.4711111
+San Francisco,Haight Ashbury,37.7699298,-122.4469157
+San Francisco,Hayes Valley,37.7747129,-122.4297098
+San Francisco,Hunters Point,37.7303114,-122.4175397
+San Francisco,Ingleside,37.7229872,-122.4530272
+San Francisco,Ingleside Terraces,37.7241667,-122.4663889
+San Francisco,Inner Sunset,37.7575256,-122.4730585
+San Francisco,Islais Creek,37.7465517,-122.3941148
+San Francisco,Jordan Park,37.7837941,-122.4607456
+San Francisco,Lakeside,37.7258837,-122.4822131
+San Francisco,Lakeshore,37.7193366,-122.5071179
+San Francisco,Laurel Heights,37.7844181,-122.454827
+San Francisco,Little Hollywood,37.7119632,-122.402699
+San Francisco,Little Russia,37.7802376,-122.4859237
+San Francisco,Lone Mountain,37.7783445,-122.4570452
+San Francisco,Lower Haight,37.7717213,-122.4380884
+San Francisco,Lower Pacific Heights,37.7862921,-122.4445307
+San Francisco,Lower Nob Hill,37.7890842,-122.4180353
+San Francisco,Marina District,37.8038346,-122.4462292
+San Francisco,Merced Heights,37.7186111,-122.4680556
+San Francisco,Merced Manor,37.7333333,-122.4772222
+San Francisco,Midtown Terrace,37.7511428,-122.4619752
+San Francisco,Mid Market,37.7801531,-122.4158371
+San Francisco,Mission Bay,37.7714556,-122.3992929
+San Francisco,Mission District,37.75993,-122.4191376
+San Francisco,Mission Terrace,37.7243581,-122.4467487
+San Francisco,Monterey Heights,37.7332075,-122.4712138
+San Francisco,Mount Davidson,37.7383325,-122.4620881
+San Francisco,Nob Hill,37.7929437,-122.4204894
+San Francisco,Noe Valley,37.7490552,-122.4432321
+San Francisco,North Beach,37.8057618,-122.4121934
+San Francisco,North of Panhandle,37.7763167,-122.4467289
+San Francisco,Oceanview,37.7093764,-122.4385829
+San Francisco,Outer Sunset,37.7553505,-122.5111803
+San Francisco,Pacific Heights,37.7849294,-122.4521937
+San Francisco,Parkmerced,37.7183333,-122.4805556
+San Francisco,Polk Gulch,37.792353,-122.4297861
+San Francisco,Portola,37.7270711,-122.4207774
+San Francisco,Potrero Hill,37.7582657,-122.4013887
+San Francisco,Presidio Heights,37.7886932,-122.4575408
+San Francisco,Richmond District,37.7804852,-122.4724717
+San Francisco,Rincon Hill,37.7868714,-122.3961639
+San Francisco,Russian Hill,37.8008486,-122.4247091
+San Francisco,Saint Francis Wood,37.7346534,-122.4680272
+San Francisco,Sea Cliff,37.7885406,-122.4869164
+San Francisco,Sherwood Forest,37.7372222,-122.4588889
+San Francisco,Silver Terrace,37.735,-122.4013889
+San Francisco,South Beach,37.7863673,-122.4042279
+San Francisco,SoMa,37.7808144,-122.4199278
+San Francisco,Sunnydale,37.7105411,-122.4241957
+San Francisco,Sunnyside,37.7293946,-122.4535454
+San Francisco,Sunset District,37.7535418,-122.4952495
+San Francisco,Telegraph Hill,37.8016667,-122.4105759
+San Francisco,Tenderloin,37.7839293,-122.4218072
+San Francisco,Treasure Island,37.8201475,-122.3864967
+San Francisco,Twin Peaks,37.7532508,-122.460038
+San Francisco,Union Square,37.787933,-122.4096868
+San Francisco,Visitacion Valley,37.7162361,-122.4317946
+San Francisco,Vista del Mar,37.7429863,-122.4366379
+San Francisco,West Portal,37.7375,-122.4727778
+San Francisco,Western Addition,37.7852071,-122.4469159
+San Francisco,Westwood Highlands,37.7332044,-122.4605633
+Boston,Allston,42.3594889,-71.142382
+Boston,Back Bay,42.3500974,-71.0869961
+Boston,Bay Village,42.3506531,-71.0697734
+Boston,Beacon Hill,42.3587085,-71.067829
+Boston,Brighton,42.3500971,-71.1564423
+Boston,Charlestown,42.3778749,-71.0619957
+Boston,Chinatown,42.3498142,-71.0683821
+Boston,Dorchester,42.2973205,-71.0744952
+Boston,Downtown,42.3545419,-71.0578287
+Boston,East Boston,42.3750973,-71.0392173
+Boston,Fenway Kenmore,42.3425861,-71.114255
+Boston,Hyde Park,42.2556543,-71.1244963
+Boston,Jamaica Plain,42.3098201,-71.1203299
+Boston,Mattapan,42.2723208,-71.0869953
+Boston,Mission Hill,42.3313136,-71.1108018
+Boston,North End,42.3650974,-71.0544954
+Boston,Roslindale,42.2912093,-71.1244966
+Boston,Roxbury,42.3250978,-71.0953294
+Boston,South Boston,42.3334312,-71.0494949
+Boston,South End,42.3394433,-71.0845512
+Boston,West End,42.3647459,-71.0704214
+Boston,West Roxbury,42.2792649,-71.1494972
+Chicago,Albany Park,41.968365,-87.7233915
+Chicago,Archer Heights,41.8114215,-87.7261651
+Chicago,Armour Square,41.8400333,-87.633107
+Chicago,Ashburn,41.7475332,-87.7111628
+Chicago,Auburn Gresham,41.7433879,-87.6736705
+Chicago,Austin,41.8875319,-87.7647796
+Chicago,Avalon Park,41.7450346,-87.5886584
+Chicago,Avondale,41.9389208,-87.711168
+Chicago,Belmont Cragin,41.9316983,-87.7686699
+Chicago,Beverly,41.7180893,-87.6736608
+Chicago,Bridgeport,41.8380887,-87.6511631
+Chicago,Brighton Park,41.8189217,-87.6989421
+Chicago,Burnside,41.7294187,-87.6043656
+Chicago,Calumet Heights,41.7300347,-87.5792134
+Chicago,Chatham,41.7411454,-87.6125481
+Chicago,Chicago Lawn,41.7750332,-87.6964408
+Chicago,Clearing,41.7780881,-87.761721
+Chicago,Douglas,41.8347557,-87.6181064
+Chicago,Dunning,41.952809,-87.7964493
+Chicago,East Garfield Park,41.8808657,-87.7028328
+Chicago,East Side,41.7122574,-87.5319891
+Chicago,Edgewater,41.9833652,-87.6639453
+Chicago,Edison Park,41.9986417,-87.8239516
+Chicago,Englewood,41.7797559,-87.6458836
+Chicago,Forest Glen,41.9917005,-87.7933954
+Chicago,Fuller Park,41.8180891,-87.6325508
+Chicago,Gage Park,41.795033,-87.6961636
+Chicago,Garfield Ridge,41.8033977,-87.8047048
+Chicago,Grand Boulevard,41.8139226,-87.6172724
+Chicago,Greater Grand Crossing,41.75559,-87.6003258
+Chicago,Hegewisch,41.6536462,-87.5469885
+Chicago,Hermosa,41.928643,-87.7345019
+Chicago,Humboldt Park,41.9028099,-87.7208896
+Chicago,Hyde Park,41.7942008,-87.5939377
+Chicago,Irving Park,41.953365,-87.7364471
+Chicago,Jefferson Park,41.970587,-87.763393
+Chicago,Kenwood,41.8092006,-87.5975493
+Chicago,Lake View,42.1116944,-87.7417288
+Chicago,Lincoln Park,41.9216992,-87.647832
+Chicago,Lincoln Square,41.9758651,-87.6892238
+Chicago,Logan Square,41.9233654,-87.6992228
+Chicago,Lower West Side,41.8541996,-87.6656086
+Chicago,McKinley Park,41.8316997,-87.6736638
+Chicago,Montclare,41.927878,-87.8155905
+Chicago,Morgan Park,41.6903117,-87.6667156
+Chicago,Mount Greenwood,41.6980891,-87.7086616
+Chicago,Near North Side,41.9000327,-87.6344975
+Chicago,Near South Side,41.8566999,-87.6247738
+Chicago,Near West Side,41.8800327,-87.6667204
+Chicago,New City,41.8075333,-87.6564403
+Chicago,North Center,41.9539209,-87.6789451
+Chicago,North Lawndale,41.8600324,-87.7183883
+Chicago,North Park,41.9805872,-87.7208917
+Chicago,Norwood Park,41.9856195,-87.8247351
+Chicago,Oakland,41.8230893,-87.6039388
+Chicago,Portage Park,41.9578093,-87.7650594
+Chicago,Pullman,41.9578093,-87.7650594
+Chicago,Riverdale,41.9578093,-87.7650594
+Chicago,Rogers Park,42.0086426,-87.6667239
+Chicago,Roseland,41.7019787,-87.625881
+Chicago,South Chicago,41.722813,-87.536434
+Chicago,South Deering,41.6922572,-87.5583785
+Chicago,South Lawndale,41.8436437,-87.7125544
+Chicago,South Shore,41.761979,-87.5778252
+Chicago,The Loop,41.8789711,-87.637882
+Chicago,Uptown,41.9816986,-87.6597784
+Chicago,Washington Heights,41.7064229,-87.65616
+Chicago,Washington Park,41.7925338,-87.6181052
+Chicago,West Elsdon,41.7959016,-87.7430715
+Chicago,West Englewood,41.7780891,-87.6667177
+Chicago,West Garfield Park,41.8805878,-87.7292227
+Chicago,West Lawn,41.7728107,-87.722275
+Chicago,West Pullman,41.6794786,-87.6419922
+Chicago,West Ridge,41.9997538,-87.6928357
+Chicago,West Town,41.9014213,-87.6861661
+Chicago,Woodlawn,41.7794786,-87.599493
+Portland OR,Alameda,45.5551182,-122.6306508
+Portland OR,Arbor Lodge,45.5717691,-122.7020223
+Portland OR,Ardenwald Johnson Creek,45.4542648,-122.6451345
+Portland OR,Argay,45.5565352,-122.5414687
+Portland OR,Arlington Heights,45.5193203,-122.7184048
+Portland OR,Arnold Creek,45.4411093,-122.715684
+Portland OR,Ashcreek,45.4539959,-122.7555454
+Portland OR,Beaumont Wilshire,45.5499389,-122.6402737
+Portland OR,Boise,45.5491087,-122.6789528
+Portland OR,Brentwood Darlington,45.4685503,-122.6152692
+Portland OR,Bridgeton,45.6034287,-122.6775507
+Portland OR,Bridlemile,45.4931737,-122.7103744
+Portland OR,Brooklyn,45.4903967,-122.6373167
+Portland OR,Buckman,45.5175637,-122.661919
+Portland OR,Cathedral Park,45.5876911,-122.774349
+Portland OR,Centennial,45.5056252,-122.5161468
+Portland OR,Collins View,45.4530858,-122.6954122
+Portland OR,Concordia,45.5660088,-122.649712
+Portland OR,Creston Kenilworth,45.4941362,-122.6376262
+Portland OR,Crestwood,45.4539837,-122.7367002
+Portland OR,Cully,45.5636177,-122.6165886
+Portland OR,East Columbia,45.5940143,-122.663933
+Portland OR,Eastmoreland,45.4731747,-122.6242606
+Portland OR,Eliot,45.5400912,-122.6882577
+Portland OR,Far Southwest,45.4396662,-122.7438906
+Portland OR,Foster Powell,45.4902113,-122.6039707
+Portland OR,Glenfair,45.5228164,-122.5082174
+Portland OR,Goose Hollow,45.5185242,-122.7023179
+Portland OR,Grant Park,45.5394132,-122.6357974
+Portland OR,Hayden Island,45.6252639,-122.7178504
+Portland OR,Hayhurst,45.4816688,-122.7451276
+Portland OR,Hazelwood,45.5165085,-122.5239808
+Portland OR,Healy Heights,45.4926607,-122.704384
+Portland OR,Hillsdale,45.4815074,-122.6948181
+Portland OR,Hillside,45.5260127,-122.7222513
+Portland OR,Hollywood,45.5346692,-122.6289158
+Portland OR,Homestead,45.4957877,-122.7051612
+Portland OR,Hosford Abernethy,45.5052863,-122.6706576
+Portland OR,Humboldt,45.5605277,-122.6803812
+Portland OR,Irvington,45.540396,-122.6520401
+Portland OR,Kenton,45.5817841,-122.6814858
+Portland OR,Kerns,45.5269322,-122.667474
+Portland OR,King,45.5573692,-122.6752492
+Portland OR,Laurelhurst,45.5269857,-122.6334478
+Portland OR,Lents,45.4773973,-122.5983533
+Portland OR,Linnton,45.5262297,-122.6228725
+Portland OR,Lloyd District ,45.5301762,-122.6710649
+Portland OR,Madison South,45.5426027,-122.5947946
+Portland OR,Maplewood,45.4698405,-122.7300967
+Portland OR,Markham,45.4563072,-122.7100677
+Portland OR,Marshall Park,45.4545258,-122.711182
+Portland OR,Mill Park,45.5115777,-122.5529457
+Portland OR,Montavilla,45.519008,-122.5789823
+Portland OR,Mt. Scott Arleta,45.4836673,-122.5993449
+Portland OR,Mt. Tabor,45.5142918,-122.6166066
+Portland OR,Multnomah,45.4695629,-122.7073183
+Portland OR,North Tabor,45.5266002,-122.613597
+Portland OR,Northwest District,45.5678236,-122.8222905
+Portland OR,Northwest Heights,45.5412037,-122.7873545
+Portland OR,Northwest Industrial,45.5611102,-122.7640527
+Portland OR,Old Town Chinatown,45.5253166,-122.6813849
+Portland OR,Overlook,45.5566918,-122.7373131
+Portland OR,Parkrose,45.5595631,-122.5603715
+Portland OR,Parkrose Heights,45.5405952,-122.5575897
+Portland OR,Pearl District,45.5304471,-122.6893503
+Portland OR,Piedmont,45.5651178,-122.6681519
+Portland OR,Pleasant Valley,45.4746323,-122.5430404
+Portland OR,Portland Downtown,45.5234515,-122.6762071
+Portland OR,Portsmouth,45.5866677,-122.7380962
+Portland OR,Powellhurst Gilbert,45.5040085,-122.537592
+Portland OR,Reed,45.4861537,-122.6417698
+Portland OR,Richmond,45.5044402,-122.6313178
+Portland OR,Rose City Park,45.5378137,-122.6231486
+Portland OR,Roseway,45.5482902,-122.5977494
+Portland OR,Russell,45.5401082,-122.5355962
+Portland OR,Sabin,45.5529892,-122.6575792
+Portland OR,Sellwood Moreland,45.4645635,-122.6525945
+Portland OR,South Burlingame,45.4672773,-122.6947967
+Portland OR,South Portland,45.4876185,-122.6825957
+Portland OR,South Tabor,45.5014258,-122.6026198
+Portland OR,Southwest Hills,45.5052702,-122.7319607
+Portland OR,St. Johns,45.5901308,-122.7632979
+Portland OR,Sullivans Gulch,45.5319337,-122.6513667
+Portland OR,Sumner,45.5612362,-122.5844908
+Portland OR,Sunderland,45.5864246,122.6597342
+Portland OR,Sunnyside,45.5156822,-122.6334986
+Portland OR,Sylvan Highlands,45.5090067,-122.735653
+Portland OR,University Park,45.5762283,-122.7287091
+Portland OR,Vernon,45.5620372,-122.6577417
+Portland OR,West Portland Park ,45.4467852,-122.7256517
+Portland OR,Wilkes,45.5463388,-122.5294821
+Portland OR,Woodland Park,45.5356609,-122.5651839
+Portland OR,Woodlawn,45.5737332,-122.6611927
+Portland OR,Woodstock,45.4790082,-122.6084269
+New York,East Village,40.72784678,-73.98222617
